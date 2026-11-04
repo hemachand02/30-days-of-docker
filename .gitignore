@@ -1,0 +1,20 @@
+# IDE files
+.idea/
+.vscode/
+
+# Java build outputs
+target/
+*.class
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.log
